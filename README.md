@@ -1,5 +1,5 @@
 ### Domenico Zungri 👋
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzE2MDJuYzhqYnc1M2QzaGw5N3FzcTN0enEzeTA2aG5kano5dHVraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="20%" align="right">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzE2MDJuYzhqYnc1M2QzaGw5N3FzcTN0enEzeTA2aG5kano5dHVraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="20%" align="center">
 <br>
 
 
