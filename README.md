@@ -1,5 +1,8 @@
 ### Domenico Zungri 👋
 
+![Test Image]( )![code-944499_1280](https://github.com/DevDomenico/DevDomenico/assets/135279072/490f5c22-0de3-4010-a51b-16f93e31081a)
+
+
 <!--
 **DevDomenico/DevDomenico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
