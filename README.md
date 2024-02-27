@@ -1,4 +1,6 @@
 ### Domenico Zungri 👋
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzE2MDJuYzhqYnc1M2QzaGw5N3FzcTN0enEzeTA2aG5kano5dHVraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="20%" align="right">
+<br>
 <img src="https://github.com/DevDomenico/DevDomenico/assets/135279072/490f5c22-0de3-4010-a51b-16f93e31081a" alt="coding" width="500px" height="300px">
 
 
