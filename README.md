@@ -1,5 +1,6 @@
 ### Domenico Zungri 👋
-<img src="[url_dell_immagine](https://github.com/DevDomenico/DevDomenico/assets/135279072/490f5c22-0de3-4010-a51b-16f93e31081a)" alt="coding" width="150px" height="150px">
+<img src="https://github.com/DevDomenico/DevDomenico/assets/135279072/490f5c22-0de3-4010-a51b-16f93e31081a" alt="coding" width="150px" height="150px">
+
 
 
 
