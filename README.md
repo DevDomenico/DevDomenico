@@ -3,7 +3,7 @@
 <br>
 <h2> About me 👨‍💻</h2> 
 
-[![GitHub DomenicoDev](https://img.shields.io/github/followers/DomenicoZungri?label=follow&style=social)](https://github.com/DomenicoZungri) [![Linkedin: William](https://img.shields.io/badge/-DomenicoZungri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/domenico-zungri-developer//)](https://www.linkedin.com/in/domenico-zungri-developer//) [![EPICODE Talent](https://img.shields.io/badge/-EPICODE%20Talent-800080?style=flat&logoColor=white&color=800080)](https://talent.epicode.com/talent/f3256c17-78b0-4827-b57a-4280e9a1b09b)
+[![GitHub DomenicoDev](https://img.shields.io/github/followers/DomenicoZungri?label=follow&style=social)](https://github.com/DomenicoZungri) [![Linkedin: Domenico Zungri](https://img.shields.io/badge/-DomenicoZungri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/domenico-zungri-developer//)](https://www.linkedin.com/in/domenico-zungri-developer//) [![EPICODE Talent](https://img.shields.io/badge/-EPICODE%20Talent-800080?style=flat&logoColor=white&color=800080)](https://talent.epicode.com/talent/f3256c17-78b0-4827-b57a-4280e9a1b09b)
 
 
 <div align="center">
